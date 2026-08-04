@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Abbas Raza Laghari
 
-<!--
-**AbbasRazaLaghari/AbbasRazaLaghari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Python Developer from Pakistan.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Building PrivoNest (PII Masking Engine)
+
+🔹 Full Stack Development
+
+🔹 Python Automation
+
+🔹 Flask & PostgreSQL
+
+## Tech Stack
+
+Python
+Flask
+JavaScript
+PostgreSQL
+HTML
+CSS
+Selenium
+BeautifulSoup
+Pandas
+Git
+Linux
+
+## Projects
+
+🔸 PrivoNest
+🔸 Amazon Data Extractor
+🔸 Automated Ticket Booking Bot
+
+## Connect
+
+LinkedIn: https://www.linkedin.com/in/abbas-raza-laghari
+GitHub:
+Email: abbasrazalaghari786110@gmail.com
