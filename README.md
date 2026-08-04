@@ -1,183 +1,130 @@
-<h1 align="center">Hi 👋, I'm Abbas Raza Laghari</h1>
+<!-- Animated Header -->
 
-<h3 align="center">
-Full-Stack Python Developer • Automation Engineer • Creator of PrivoNest
-</h3>
+<h1 align="center">
+  Hi 👋, I'm Abbas Raza Laghari
+</h1>
 
 <p align="center">
-Building secure, scalable web applications and intelligent data privacy solutions.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Python+Developer;Creator+of+PrivoNest;Automation+Engineer;Building+Privacy+Focused+Software;Open+Source+Enthusiast" />
+  </a>
 </p>
 
-<p align="center">
-<a href="https://github.com/Abbas-Raza-Laghari">
-<img src="https://img.shields.io/github/followers/Abbas-Raza-Laghari?label=Followers&style=for-the-badge"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/abbas-raza-laghari">
+<p align="center">
+
+<a href="http://www.linkedin.com/in/abbas-raza-laghari">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:abbasrazalaghari786110@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto: abbasrazalaghari786110@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/Abbas-Raza-Laghari">
+<img src="https://img.shields.io/github/followers/Abbas-Raza-Laghari?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-🎓 **B.E. Telecommunication Engineering**
+🎓 **Bachelor of Engineering (Telecommunication Engineering)**
 
-🏛 **Dawood University of Engineering & Technology**
+🏛 Dawood University of Engineering & Technology (DUET)
 
 💼 Python Full-Stack Developer
 
-🚀 Creator of **PrivoNest** — Enterprise-grade Data Loss Prevention (DLP) Engine
-
-📍 Karachi, Pakistan
+🚀 Creator of **PrivoNest**
 
 ---
 
-# 🚀 Currently Building
+# 🔥 Current Project
 
 ## 🔒 PrivoNest
 
-PrivoNest is an AI-powered Data Loss Prevention (DLP) platform designed to detect and protect sensitive information across structured and unstructured data.
+Enterprise Data Loss Prevention Platform
 
-### Key Features
+### Features
 
-✅ Detects **200+ Sensitive Data Types**
+✅ 200+ Sensitive Data Types
 
-✅ Supports **35+ Languages**
+🌍 35+ Languages
 
-✅ Covers **50+ Countries Local Data Formats**
+🌎 50+ Country-specific Data Types
 
-✅ Hybrid Detection using
+🧠 spaCy NLP
 
-- spaCy NLP
-- Advanced Regular Expressions
-- Rule-based Detection
-- Context-aware Validation
+⚡ Advanced Regex Engine
 
-### Supported Data
+🔐 REST APIs
 
-- National IDs
-- Passports
-- Credit Cards
-- IBAN
-- Bank Accounts
-- Phone Numbers
-- Emails
-- Addresses
-- API Keys
-- AWS Credentials
-- Azure Secrets
-- Google Cloud Keys
-- JWT Tokens
-- Crypto Wallets
-- Medical IDs
-- Tax IDs
+🗄 PostgreSQL
 
-…and 200+ more.
+☁ Railway Deployment
+
+🌐 Hostinger Domain
+
+📧 Resend Email API
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
+<p align="center">
 
-Python • JavaScript • HTML5 • CSS3 • SQL
+<img src="https://skillicons.dev/icons?i=python,flask,postgres,js,html,css,git,github,docker,aws,linux,vscode"/>
 
-### Backend
+</p>
 
-Flask
+### Also Working With
 
-REST API
-
-JWT Authentication
-
-### Database
-
-PostgreSQL
-
-SQLite
-
-### AI & NLP
-
-spaCy
-
-Regex
-
-Natural Language Processing
-
-Pattern Matching
-
-### Automation
-
-Selenium
-
-BeautifulSoup
-
-Pandas
-
-Requests
-
-### Tools
-
-Git
-
-GitHub
-
-Linux
-
-VS Code
-
-Postman
+- spaCy
+- Regex
+- Selenium
+- BeautifulSoup
+- Pandas
+- Railway
+- Hostinger
+- Resend API
 
 ---
 
-# 💼 Experience
+# 🚀 Featured Projects
 
-### Lead Full-Stack Developer & Creator
+🔒 PrivoNest
 
-**PrivoNest**
+🛒 Amazon Data Extractor
 
-- Designed complete backend architecture
-- Built multilingual DLP Engine
-- Developed custom Regex library
-- Integrated spaCy NLP pipeline
-- Developed REST APIs
-- PostgreSQL Database Design
+🎫 Ticket Booking Bot
 
-# 🎓 Education
-
-**Dawood University of Engineering & Technology**
-
-Bachelor of Engineering (B.E.)
-
-Telecommunication Engineering
-
-2024 – Present
+🌐 Portfolio Website
 
 ---
 
-# 📜 Certifications
+# 📫 Connect With Me
 
-🏆 Google IT Automation with Python Professional Certificate
+<p align="center">
 
-🏆 Google Technical Support Fundamentals
+<a href="https://www.linkdin.com/in/abbas-raza-laghari">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
+</a>
 
+<a href="mailto: abbasrazalaghari786110@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
 
-# 🤝 Connect With Me
-
-📧 Email:
-abbasrazalaghari786110@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/abbas-raza-laghari
-
-🌐 GitHub:
-https://github.com/Abbas-Raza-Laghari
+</p>
 
 ---
+
+<p align="center">
+
+💙 Thanks for visiting my profile!
+
+</p>
