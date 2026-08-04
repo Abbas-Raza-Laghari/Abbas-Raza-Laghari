@@ -9,8 +9,8 @@ Building secure, scalable web applications and intelligent data privacy solution
 </p>
 
 <p align="center">
-<a href="https://github.com/AbbasRazaLaghari">
-<img src="https://img.shields.io/github/followers/AbbasRazaLaghari?label=Followers&style=for-the-badge"/>
+<a href="https://github.com/Abbas-Raza-Laghari">
+<img src="https://img.shields.io/github/followers/Abbas-Raza-Laghari?label=Followers&style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/abbas-raza-laghari">
