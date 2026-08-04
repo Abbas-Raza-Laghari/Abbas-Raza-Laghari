@@ -35,5 +35,4 @@ Linux
 ## Connect
 
 LinkedIn: https://www.linkedin.com/in/abbas-raza-laghari
-GitHub:
 Email: abbasrazalaghari786110@gmail.com
