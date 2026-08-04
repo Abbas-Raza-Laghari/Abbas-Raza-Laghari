@@ -1,130 +1,183 @@
 <h1 align="center">Hi 👋, I'm Abbas Raza Laghari</h1>
-<h3 align="center">Full-Stack Python Developer | Automation Engineer | Creator of PrivoNest</h3>
+
+<h3 align="center">
+Full-Stack Python Developer • Automation Engineer • Creator of PrivoNest
+</h3>
 
 <p align="center">
-Building secure, scalable web applications and intelligent automation solutions with Python.
+Building secure, scalable web applications and intelligent data privacy solutions.
+</p>
+
+<p align="center">
+<a href="https://github.com/AbbasRazaLaghari">
+<img src="https://img.shields.io/github/followers/AbbasRazaLaghari?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abbas-raza-laghari">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:abbasrazalaghari786110@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 **Bachelor of Engineering (B.E.) in Telecommunication Engineering**
-- 🏛️ **Dawood University of Engineering & Technology (DUET), Karachi**
-- 💼 **Lead Full-Stack Developer & Creator of PrivoNest**
-- 🌱 Currently learning advanced backend architecture, AI integration, and cloud deployment.
-- 💡 Passionate about Data Privacy, Automation, Web Scraping, and Full-Stack Development.
-- 📍 Karachi, Pakistan
+🎓 **B.E. Telecommunication Engineering**
 
----
+🏛 **Dawood University of Engineering & Technology**
 
-## 🚀 Current Projects
+💼 Python Full-Stack Developer
 
-### 🔒 PrivoNest
-A Full-Stack Data Loss Prevention (DLP) platform built using Flask and PostgreSQL.
+🚀 Creator of **PrivoNest** — Enterprise-grade Data Loss Prevention (DLP) Engine
 
-**Key Features**
-- Detects and masks Personally Identifiable Information (PII)
-- Supports 25+ languages
-- Processes PDFs, Emails, and Plain Text
-- Custom NLP & Regex Engine
-- Secure API Architecture
+📍 Karachi, Pakistan
 
 ---
 
-## 💼 Experience
+# 🚀 Currently Building
+
+## 🔒 PrivoNest
+
+PrivoNest is an AI-powered Data Loss Prevention (DLP) platform designed to detect and protect sensitive information across structured and unstructured data.
+
+### Key Features
+
+✅ Detects **200+ Sensitive Data Types**
+
+✅ Supports **35+ Languages**
+
+✅ Covers **50+ Countries Local Data Formats**
+
+✅ Hybrid Detection using
+
+- spaCy NLP
+- Advanced Regular Expressions
+- Rule-based Detection
+- Context-aware Validation
+
+### Supported Data
+
+- National IDs
+- Passports
+- Credit Cards
+- IBAN
+- Bank Accounts
+- Phone Numbers
+- Emails
+- Addresses
+- API Keys
+- AWS Credentials
+- Azure Secrets
+- Google Cloud Keys
+- JWT Tokens
+- Crypto Wallets
+- Medical IDs
+- Tax IDs
+
+…and 200+ more.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+Python • JavaScript • HTML5 • CSS3 • SQL
+
+### Backend
+
+Flask
+
+REST API
+
+JWT Authentication
+
+### Database
+
+PostgreSQL
+
+SQLite
+
+### AI & NLP
+
+spaCy
+
+Regex
+
+Natural Language Processing
+
+Pattern Matching
+
+### Automation
+
+Selenium
+
+BeautifulSoup
+
+Pandas
+
+Requests
+
+### Tools
+
+Git
+
+GitHub
+
+Linux
+
+VS Code
+
+Postman
+
+---
+
+# 💼 Experience
 
 ### Lead Full-Stack Developer & Creator
-**PrivoNest** *(Self-employed)*
+
+**PrivoNest**
 
 - Designed complete backend architecture
-- Developed Flask REST APIs
-- Built PostgreSQL database
-- Implemented multilingual PII detection
-- Created secure authentication system
+- Built multilingual DLP Engine
+- Developed custom Regex library
+- Integrated spaCy NLP pipeline
+- Developed REST APIs
+- PostgreSQL Database Design
 
----
-
-### Python Developer Intern
-**Pakistan Meteorological Department**
-
-- Python Development
-- Automation
-- Data Processing
-
----
-
-## 🎓 Education
+# 🎓 Education
 
 **Dawood University of Engineering & Technology**
 
 Bachelor of Engineering (B.E.)
 
-**Telecommunication Engineering**
+Telecommunication Engineering
 
 2024 – Present
 
 ---
 
-## 🛠 Tech Stack
+# 📜 Certifications
 
-### Languages
+🏆 Google IT Automation with Python Professional Certificate
 
-- Python
-- JavaScript
-- HTML5
-- CSS3
+🏆 Google Technical Support Fundamentals
 
-### Backend
 
-- Flask
-- REST APIs
+# 🤝 Connect With Me
 
-### Database
+📧 Email:
+abbasrazalaghari786110@gmail.com
 
-- PostgreSQL
+💼 LinkedIn:
+https://linkedin.com/in/abbas-raza-laghari
 
-### Automation
-
-- Selenium
-- BeautifulSoup
-- Pandas
-
-### Tools
-
-- Git
-- GitHub
-- Linux
-- VS Code
+🌐 GitHub:
+https://github.com/Abbas-Raza-Laghari
 
 ---
-
-## ⭐ Featured Projects
-
-### 🔹 PrivoNest
-Privacy-focused Data Loss Prevention platform.
-
-### 🔹 Amazon Data Extractor
-Python-based intelligent web scraper.
-
-### 🔹 Automated Ticket Booking Bot
-Browser automation using Selenium.
-
----
-
-## 📜 Certifications
-
-- Google IT Automation with Python Professional Certificate
-- Google Technical Support Fundamentals
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/abbas-raza-laghari
-- GitHub: https://github.com/AbbasRazaLaghari
-- Email: abbasrazalaghari786110@gmail.com
-
----
-
-⭐ *Always building. Always learning. Always shipping.*
